@@ -1,0 +1,15 @@
+#coding: utf-8
+<p id="notice"><%= notice %></p>
+
+<p>
+  <b>图片名称:</b>
+  <%= @photo.name %>
+</p>
+
+<p>
+  <b>图片描述:</b>
+  <%= @photo.description %>
+</p>
+
+<%= link_to 'Edit', edit_photo_path(@photo) %> |
+<%= link_to 'Back', photos_path %>

@@ -1,7 +1,7 @@
-o: ActiveSupport::Cache::Entry	:@compressedF:@expires_in0:@created_atf1369535194.0520456:@value{I"
+o: ActiveSupport::Cache::Entry	:@compressedF:@expires_in0:@created_atf1370179552.8058286:@value{I"
 class:EFI"BundledAsset;
 FI"id;
-F"%4f4241651a2c51e93f2d36a29fa6ac75I"logical_path;
+F"%06ef2a000f0022b5ae5b41131d186624I"logical_path;
 FI"application.js;
 TI"pathname;
 FI"0$root/app/assets/javascripts/application.js;
@@ -9,7 +9,7 @@ TI"content_type;
 FI"application/javascript;
 FI"
 mtime;
-FI"2013-05-25T15:26:17+08:00;
+FI"2013-06-02T21:20:45+08:00;
 FI"	body;
 FI"î// This is a manifest file that'll be compiled into including all the files listed below.
 // Add new JavaScript/Coffee code in separate files in this directory and they'll automatically
@@ -20,11 +20,13 @@ FI"î// This is a manifest file that'll be compiled into including all the file
 ;
 ;
 FI"asset_paths;
-F[I"b/home/y/.rvm/gems/ruby-1.9.3-p392/gems/jquery-rails-2.2.1/vendor/assets/javascripts/jquery.js;
+F[	I"b/home/y/.rvm/gems/ruby-1.9.3-p392/gems/jquery-rails-2.2.1/vendor/assets/javascripts/jquery.js;
 TI"f/home/y/.rvm/gems/ruby-1.9.3-p392/gems/jquery-rails-2.2.1/vendor/assets/javascripts/jquery_ujs.js;
+TI"2$root/app/assets/javascripts/photos.js.coffee;
 TI"0$root/app/assets/javascripts/application.js;
 TI"dependency_paths;
-F[	{I"	path;
+F[
+{I"	path;
 FI"0$root/app/assets/javascripts/application.js;
 TI"
 mtime;
@@ -35,10 +37,10 @@ F"%0f1cfbc0bc3803a9dbf1a44d1da6ff92{I"	path;
 FI"!$root/app/assets/javascripts;
 TI"
 mtime;
-FIu;'SÄL(i
+FIu;MTÄÃé‘R
 ;I"CST;
-T;iﬂ;i;""0;iÄpI"hexdigest;
-F"%9fc91fc75938cd11a57805188f2a2260{I"	path;
+T;iæ;i;"p ;iÄpI"hexdigest;
+F"%c91cde24e29b76bb20fd018628369b0a{I"	path;
 FI"b/home/y/.rvm/gems/ruby-1.9.3-p392/gems/jquery-rails-2.2.1/vendor/assets/javascripts/jquery.js;
 TI"
 mtime;
@@ -52,5 +54,12 @@ mtime;
 FIu;©QÄS∞VU
 ;I"CST;
 T;iù;i;"íP;iÄpI"hexdigest;
-F"%4361aaa3c1478d2edb37daae7621f730I"_version;
+F"%4361aaa3c1478d2edb37daae7621f730{I"	path;
+FI"2$root/app/assets/javascripts/photos.js.coffee;
+TI"
+mtime;
+FIu;MTÄÃé‘R
+;I"CST;
+T;iæ;i;"p ;iÄpI"hexdigest;
+F"%f50e3d51579225e3370988d160060f33I"_version;
 F"%0868aba5d4b750d3a9421721ea3d9b9c
