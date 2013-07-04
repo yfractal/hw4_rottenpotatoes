@@ -1,7 +1,7 @@
-o: ActiveSupport::Cache::Entry	:@compressedF:@expires_in0:@created_atf1370179552.8058286:@value{I"
+o: ActiveSupport::Cache::Entry	:@compressedF:@expires_in0:@created_atf1372904172.4644804:@value{I"
 class:EFI"BundledAsset;
 FI"id;
-F"%06ef2a000f0022b5ae5b41131d186624I"logical_path;
+F"%885d77aff3f6da5eedeffc4d6ce484c5I"logical_path;
 FI"application.js;
 TI"pathname;
 FI"0$root/app/assets/javascripts/application.js;
@@ -9,7 +9,7 @@ TI"content_type;
 FI"application/javascript;
 FI"
 mtime;
-FI"2013-06-02T21:20:45+08:00;
+FI"2013-06-14T19:55:26+08:00;
 FI"	body;
 FI"”// This is a manifest file that'll be compiled into including all the files listed below.
 // Add new JavaScript/Coffee code in separate files in this directory and they'll automatically
@@ -20,41 +20,160 @@ FI"”// This is a manifest file that'll be compiled into including all the file
 ;
 ;
 FI"asset_paths;
-F[	I"b/home/y/.rvm/gems/ruby-1.9.3-p392/gems/jquery-rails-2.2.1/vendor/assets/javascripts/jquery.js;
-TI"f/home/y/.rvm/gems/ruby-1.9.3-p392/gems/jquery-rails-2.2.1/vendor/assets/javascripts/jquery_ujs.js;
+F[I"n/home/y/.rvm/gems/ruby-1.9.3-p392@rails3.2.13/gems/jquery-rails-2.2.1/vendor/assets/javascripts/jquery.js;
+TI"r/home/y/.rvm/gems/ruby-1.9.3-p392@rails3.2.13/gems/jquery-rails-2.2.1/vendor/assets/javascripts/jquery_ujs.js;
+TI"‘/home/y/.rvm/gems/ruby-1.9.3-p392@rails3.2.13/gems/twitter-bootstrap-rails-2.2.7/app/assets/javascripts/twitter/bootstrap/bootstrap-transition.js;
+TI"Œ/home/y/.rvm/gems/ruby-1.9.3-p392@rails3.2.13/gems/twitter-bootstrap-rails-2.2.7/app/assets/javascripts/twitter/bootstrap/bootstrap-alert.js;
+TI"Œ/home/y/.rvm/gems/ruby-1.9.3-p392@rails3.2.13/gems/twitter-bootstrap-rails-2.2.7/app/assets/javascripts/twitter/bootstrap/bootstrap-modal.js;
+TI"/home/y/.rvm/gems/ruby-1.9.3-p392@rails3.2.13/gems/twitter-bootstrap-rails-2.2.7/app/assets/javascripts/twitter/bootstrap/bootstrap-dropdown.js;
+TI"/home/y/.rvm/gems/ruby-1.9.3-p392@rails3.2.13/gems/twitter-bootstrap-rails-2.2.7/app/assets/javascripts/twitter/bootstrap/bootstrap-scrollspy.js;
+TI"Š/home/y/.rvm/gems/ruby-1.9.3-p392@rails3.2.13/gems/twitter-bootstrap-rails-2.2.7/app/assets/javascripts/twitter/bootstrap/bootstrap-tab.js;
+TI"Ž/home/y/.rvm/gems/ruby-1.9.3-p392@rails3.2.13/gems/twitter-bootstrap-rails-2.2.7/app/assets/javascripts/twitter/bootstrap/bootstrap-tooltip.js;
+TI"Ž/home/y/.rvm/gems/ruby-1.9.3-p392@rails3.2.13/gems/twitter-bootstrap-rails-2.2.7/app/assets/javascripts/twitter/bootstrap/bootstrap-popover.js;
+TI"/home/y/.rvm/gems/ruby-1.9.3-p392@rails3.2.13/gems/twitter-bootstrap-rails-2.2.7/app/assets/javascripts/twitter/bootstrap/bootstrap-button.js;
+TI"/home/y/.rvm/gems/ruby-1.9.3-p392@rails3.2.13/gems/twitter-bootstrap-rails-2.2.7/app/assets/javascripts/twitter/bootstrap/bootstrap-collapse.js;
+TI"/home/y/.rvm/gems/ruby-1.9.3-p392@rails3.2.13/gems/twitter-bootstrap-rails-2.2.7/app/assets/javascripts/twitter/bootstrap/bootstrap-carousel.js;
+TI"/home/y/.rvm/gems/ruby-1.9.3-p392@rails3.2.13/gems/twitter-bootstrap-rails-2.2.7/app/assets/javascripts/twitter/bootstrap/bootstrap-typeahead.js;
+TI"Œ/home/y/.rvm/gems/ruby-1.9.3-p392@rails3.2.13/gems/twitter-bootstrap-rails-2.2.7/app/assets/javascripts/twitter/bootstrap/bootstrap-affix.js;
+TI"|/home/y/.rvm/gems/ruby-1.9.3-p392@rails3.2.13/gems/twitter-bootstrap-rails-2.2.7/app/assets/javascripts/twitter/bootstrap.js;
+TI"5$root/app/assets/javascripts/bootstrap.js.coffee;
 TI"2$root/app/assets/javascripts/photos.js.coffee;
 TI"0$root/app/assets/javascripts/application.js;
 TI"dependency_paths;
-F[
-{I"	path;
+F[{I"	path;
 FI"0$root/app/assets/javascripts/application.js;
 TI"
 mtime;
-FIu:	Time'S€ê7i
+FIu:	TimeËU€þ@§Ý
 :@_zoneI"CST;
-T:nano_numiß:nano_deni:submicro""0:offseti€pI"hexdigest;
-F"%0f1cfbc0bc3803a9dbf1a44d1da6ff92{I"	path;
+T:nano_numiã:nano_deni:submicro""p:offseti€pI"hexdigest;
+F"%1e700a0186de37c31dec7cbd76a17430{I"	path;
 FI"!$root/app/assets/javascripts;
 TI"
 mtime;
-FIu;MT€ÌŽÔR
+FIu;ËU€žÍ§Ý
 ;I"CST;
-T;i¾;i;"p ;i€pI"hexdigest;
-F"%c91cde24e29b76bb20fd018628369b0a{I"	path;
-FI"b/home/y/.rvm/gems/ruby-1.9.3-p392/gems/jquery-rails-2.2.1/vendor/assets/javascripts/jquery.js;
+T;iã;i;""p;i€pI"hexdigest;
+F"%1579ddb4da58009fe827408bdede9fa1{I"	path;
+FI"n/home/y/.rvm/gems/ruby-1.9.3-p392@rails3.2.13/gems/jquery-rails-2.2.1/vendor/assets/javascripts/jquery.js;
 TI"
 mtime;
-FIu;©Q€³ VU
+FIu;	U€{G
 ;I"CST;
-T;i;i;"’P;i€pI"hexdigest;
+T;iE;i;"ƒp;i€pI"hexdigest;
 F"%53bf97cb01d1ff6047dce10abf121b2b{I"	path;
-FI"f/home/y/.rvm/gems/ruby-1.9.3-p392/gems/jquery-rails-2.2.1/vendor/assets/javascripts/jquery_ujs.js;
+FI"r/home/y/.rvm/gems/ruby-1.9.3-p392@rails3.2.13/gems/jquery-rails-2.2.1/vendor/assets/javascripts/jquery_ujs.js;
 TI"
 mtime;
-FIu;©Q€S°VU
+FIu;	U€—P{G
 ;I"CST;
-T;i;i;"’P;i€pI"hexdigest;
+T;iB;i;"ƒ@;i€pI"hexdigest;
 F"%4361aaa3c1478d2edb37daae7621f730{I"	path;
+FI"‘/home/y/.rvm/gems/ruby-1.9.3-p392@rails3.2.13/gems/twitter-bootstrap-rails-2.2.7/app/assets/javascripts/twitter/bootstrap/bootstrap-transition.js;
+TI"
+mtime;
+FIu;	U€i¯£W
+;I"CST;
+T;iŸ;i;"g;i€pI"hexdigest;
+F"%60687521f625c04add8e98310e9c8266{I"	path;
+FI"Œ/home/y/.rvm/gems/ruby-1.9.3-p392@rails3.2.13/gems/twitter-bootstrap-rails-2.2.7/app/assets/javascripts/twitter/bootstrap/bootstrap-alert.js;
+TI"
+mtime;
+FIu;	U€ÉŸ£W
+;I"CST;
+T;iž;i;"g;i€pI"hexdigest;
+F"%be748197741cbb4be1d2259f93b2a48d{I"	path;
+FI"Œ/home/y/.rvm/gems/ruby-1.9.3-p392@rails3.2.13/gems/twitter-bootstrap-rails-2.2.7/app/assets/javascripts/twitter/bootstrap/bootstrap-modal.js;
+TI"
+mtime;
+FIu;	U€i¯£W
+;I"CST;
+T;iŸ;i;"g;i€pI"hexdigest;
+F"%37e22d0b01b58ede2cccbfd6c529644b{I"	path;
+FI"/home/y/.rvm/gems/ruby-1.9.3-p392@rails3.2.13/gems/twitter-bootstrap-rails-2.2.7/app/assets/javascripts/twitter/bootstrap/bootstrap-dropdown.js;
+TI"
+mtime;
+FIu;	U€i¯£W
+;I"CST;
+T;iŸ;i;"g;i€pI"hexdigest;
+F"%a855e69090c38418b1a75eb769277778{I"	path;
+FI"/home/y/.rvm/gems/ruby-1.9.3-p392@rails3.2.13/gems/twitter-bootstrap-rails-2.2.7/app/assets/javascripts/twitter/bootstrap/bootstrap-scrollspy.js;
+TI"
+mtime;
+FIu;	U€i¯£W
+;I"CST;
+T;iŸ;i;"g;i€pI"hexdigest;
+F"%e4021b661bdf2034a64e7c669a9e64ed{I"	path;
+FI"Š/home/y/.rvm/gems/ruby-1.9.3-p392@rails3.2.13/gems/twitter-bootstrap-rails-2.2.7/app/assets/javascripts/twitter/bootstrap/bootstrap-tab.js;
+TI"
+mtime;
+FIu;	U€i¯£W
+;I"CST;
+T;iŸ;i;"g;i€pI"hexdigest;
+F"%d8c6501b49cd086967b71501f3819a4d{I"	path;
+FI"Ž/home/y/.rvm/gems/ruby-1.9.3-p392@rails3.2.13/gems/twitter-bootstrap-rails-2.2.7/app/assets/javascripts/twitter/bootstrap/bootstrap-tooltip.js;
+TI"
+mtime;
+FIu;	U€i¯£W
+;I"CST;
+T;iŸ;i;"g;i€pI"hexdigest;
+F"%822692625729af4ab4be5a242aa3ed2d{I"	path;
+FI"Ž/home/y/.rvm/gems/ruby-1.9.3-p392@rails3.2.13/gems/twitter-bootstrap-rails-2.2.7/app/assets/javascripts/twitter/bootstrap/bootstrap-popover.js;
+TI"
+mtime;
+FIu;	U€i¯£W
+;I"CST;
+T;iŸ;i;"g;i€pI"hexdigest;
+F"%d0eaa49369179218c3fc5f3660226b6d{I"	path;
+FI"/home/y/.rvm/gems/ruby-1.9.3-p392@rails3.2.13/gems/twitter-bootstrap-rails-2.2.7/app/assets/javascripts/twitter/bootstrap/bootstrap-button.js;
+TI"
+mtime;
+FIu;	U€ÉŸ£W
+;I"CST;
+T;iž;i;"g;i€pI"hexdigest;
+F"%fa4326c339c372868b56027ec250166e{I"	path;
+FI"/home/y/.rvm/gems/ruby-1.9.3-p392@rails3.2.13/gems/twitter-bootstrap-rails-2.2.7/app/assets/javascripts/twitter/bootstrap/bootstrap-collapse.js;
+TI"
+mtime;
+FIu;	U€i¯£W
+;I"CST;
+T;iŸ;i;"g;i€pI"hexdigest;
+F"%b3d4929ab2430e1aaeffee964432e635{I"	path;
+FI"/home/y/.rvm/gems/ruby-1.9.3-p392@rails3.2.13/gems/twitter-bootstrap-rails-2.2.7/app/assets/javascripts/twitter/bootstrap/bootstrap-carousel.js;
+TI"
+mtime;
+FIu;	U€ÉŸ£W
+;I"CST;
+T;iž;i;"g;i€pI"hexdigest;
+F"%323c6436047b4899ed3d456e1477f2d7{I"	path;
+FI"/home/y/.rvm/gems/ruby-1.9.3-p392@rails3.2.13/gems/twitter-bootstrap-rails-2.2.7/app/assets/javascripts/twitter/bootstrap/bootstrap-typeahead.js;
+TI"
+mtime;
+FIu;	U€i¯£W
+;I"CST;
+T;iŸ;i;"g;i€pI"hexdigest;
+F"%8467f650dcfa553617e1902f12bcb2b6{I"	path;
+FI"Œ/home/y/.rvm/gems/ruby-1.9.3-p392@rails3.2.13/gems/twitter-bootstrap-rails-2.2.7/app/assets/javascripts/twitter/bootstrap/bootstrap-affix.js;
+TI"
+mtime;
+FIu;	U€ÉŸ£W
+;I"CST;
+T;iž;i;"g;i€pI"hexdigest;
+F"%57289743330bd7d559632370146214df{I"	path;
+FI"|/home/y/.rvm/gems/ruby-1.9.3-p392@rails3.2.13/gems/twitter-bootstrap-rails-2.2.7/app/assets/javascripts/twitter/bootstrap.js;
+TI"
+mtime;
+FIu;	U€i¯£W
+;I"CST;
+T;iŸ;i;"g;i€pI"hexdigest;
+F"%1602bd593550be60a87a13d1201daccf{I"	path;
+FI"5$root/app/assets/javascripts/bootstrap.js.coffee;
+TI"
+mtime;
+FIu;ËU€>Ý§Ý
+;I"CST;
+T;iã;i;""p;i€pI"hexdigest;
+F"%646e97aa1f935e5aee97568f61e4af6d{I"	path;
 FI"2$root/app/assets/javascripts/photos.js.coffee;
 TI"
 mtime;
