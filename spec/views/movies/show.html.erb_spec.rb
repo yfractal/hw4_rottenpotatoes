@@ -4,6 +4,5 @@ require 'spec_helper'
 describe "pictures/show" do
 
 	it "have some linkes " do
-		pending		
 	end
 end

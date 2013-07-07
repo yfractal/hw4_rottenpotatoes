@@ -10,4 +10,8 @@ describe Movie do
       movies.should == [@m1,@m2]
     end
   end
+
+  describe "rating " do 
+  	Movie.all_ratings.should == %w(G PG PG-13 NC-17 R)
+  end
 end
