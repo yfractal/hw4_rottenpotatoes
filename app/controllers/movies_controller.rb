@@ -9,7 +9,18 @@ class MoviesController < ApplicationController
 
   def find_same_director_movies
     id = params[:id]
-    @movies = Movie.find_same_director_movies(id)
+    # @movies = Movie.find_same_director_movies(id)
+    @same_director_movies = Movie.find_same_director_movies(id)
+    # render "find_same_director_movies"
+    # puts @same_director_movies.inspect
+
+    if @same_director_movies == []
+      # flash[:notice] = "'#{Moive.find(id).title}' has no director info"
+      # flash.keep
+      flash[:notice] = "'#{Movie.find(id).title}' has no director info"
+      flash.keep
+      redirect_to root_path
+    end
   end 
 
   def index

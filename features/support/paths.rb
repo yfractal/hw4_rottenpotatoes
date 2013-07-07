@@ -23,10 +23,18 @@ module NavigationHelpers
     #     user_profile_path(User.find_by_login($1))
 
     when  /^the edit page for "Alien"/
-      puts "here"
+      # puts "here"
       m = Movie.find_by_title("Alien")
       edit_movie_path(m)
-
+    when /^the details page for "Star Wars"$/
+      m = Movie.find_by_title("Star Wars")
+      movie_path(m)
+    when /^the details page for "Alien"$/ 
+        m = Movie.find_by_title("Alien")
+        movie_path(m)
+    when /^the Similar Movies page for "Star Wars"/
+      m = Movie.find_by_title("Star Wars")
+      find_same_director_movies_movie_path(m)          
     else
       begin
         page_name =~ /^the (.*) page$/
